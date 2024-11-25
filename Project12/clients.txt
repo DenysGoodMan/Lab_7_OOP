@@ -1,0 +1,5 @@
+Alice Smith,2,Standard,3,165,000000,0,000000,Confirmed,Breakfast in room($15,000000)
+Bob Johnson,3,Deluxe,4,475,000000,0,000000,Confirmed,Breakfast in room($15,000000),Transfer($30,000000),Spa Treatment($50,000000),Dinner Package($40,000000),Pool Access($20,000000)
+Charlie Brown,2,Standard,2,255,000000,0,000000,Confirmed,Breakfast in room($15,000000),Transfer($30,000000),Spa Treatment($50,000000),Dinner Package($40,000000),Pool Access($20,000000)
+David Williams,4,Suite,1,225,000000,0,000000,Confirmed,Breakfast in room($15,000000),Transfer($30,000000),Dinner Package($40,000000),Pool Access($20,000000)
+Eve Miller,3,Deluxe,5,505,000000,0,000000,Confirmed,Breakfast in room($15,000000),Transfer($30,000000),Dinner Package($40,000000),Pool Access($20,000000)
